@@ -1,0 +1,62 @@
+[
+   {
+      "name": "flamingo",
+      "id": 1,
+      "img": "/img/img (1).jpg",
+      "family": "bird"
+   },
+   {
+      "name": "Lamb",
+      "id": 2,
+      "img": "/img/img (2).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "goat",
+      "id": 3,
+      "img": "/img/img (3).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "Meerkat",
+      "id": 4,
+      "img": "/img/img (4).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "elephant",
+      "id": 5,
+      "img": "/img/img (5).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "Giraffe",
+      "id": 6,
+      "img": "/img/img (6).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "tiger",
+      "id": 7,
+      "img": "/img/img (7).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "monkey",
+      "id": 8,
+      "img": "/img/img (8).jpg",
+      "family": "mammal"
+   },
+   {
+      "name": "pelican",
+      "id": 9,
+      "img": "/img/img (9).jpg",
+      "family": "bird"
+   },
+   {
+      "name": "falcon",
+      "id": 10,
+      "img": "/img/img (10).jpg",
+      "family": "bird"
+   }
+]
